@@ -69,7 +69,7 @@ Backend processes file content + question
 AI-like response is returned
 📸 UI Preview
 
-(Add screenshot here if needed)
+Screenshot uploaded
 
 ⚠️ Notes
 OpenAI API key can be integrated for real AI responses
